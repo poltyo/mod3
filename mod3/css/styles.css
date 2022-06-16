@@ -1,0 +1,38 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+}
+
+header {
+    background-color: #9A9998;
+}
+
+
+.navbar {
+	padding: 0px !important;
+	overflow:visible
+	left: 0;
+}
+
+
+#nav-list {
+	background-color: lightgray;
+	width: 100%;
+	border: solid black 1px;
+}
+
+
+.nav-item {
+	border: solid black 1px;
+}
+
+
+.row {
+	background-color: white;
+	padding: 50px;
+}
+
+.menu {
+	background-color:  #9A9678;
+	padding: 15px;
+}
